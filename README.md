@@ -17,4 +17,4 @@ ref_im = Image.open("/gdrive/MyDrive/Colab/fondo.jpg") # original image
 
 once the execution is finished, you get the following.
 
-
+![Alt text](/photo_collage_generator/img/generated_image.jpg?raw=true "image")
